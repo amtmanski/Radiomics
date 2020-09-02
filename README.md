@@ -13,6 +13,7 @@ CIFAR10 dataset was used to train model.
 
 Accuracy of the model for test dataset: 71.94%
 <pre>
+Accuracy for each class:
 Accuracy of airplane:	84%
 Accuracy of automobile:	85%
 Accuracy of bird:	77%
